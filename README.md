@@ -14,6 +14,6 @@ To determine a leap year, the year must be divisible by 4, but not by 100 unless
 seen in the script.js file.
 
 HTML, CSS, and JavaScript were used to create this program.
-Font Family by Google Fonts (DM Sans)
+Font Family by Google Fonts (DM Sans).
 This is inspired by the Leap Year Calculator Lab Activity from freeCodeCamp's JavaScript Certification course.
 
