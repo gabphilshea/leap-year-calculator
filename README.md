@@ -4,7 +4,7 @@ LEAP YEAR CALCULATOR
 USER INTERFACE
 <img width="1901" height="846" alt="image" src="https://github.com/user-attachments/assets/c196ea10-9aa5-469f-b961-da4ca142403c" />
 - The website showcases a simple UI with just a calculator containing numeric keypads to input a year
-- A message box below is addded to display the message.
+- A message box below is added to display the message.
 <img width="552" height="157" alt="image" src="https://github.com/user-attachments/assets/72c678d8-68ce-46ca-958b-062be7334fea" />
 <img width="558" height="150" alt="image" src="https://github.com/user-attachments/assets/8843391b-5cb1-4844-9c95-4f6d15222921" />
 
