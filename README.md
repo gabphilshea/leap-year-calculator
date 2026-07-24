@@ -10,6 +10,7 @@
 <img width="558" height="150" alt="image" src="https://github.com/user-attachments/assets/8843391b-5cb1-4844-9c95-4f6d15222921" />
 
 A leap year occurs every four years. As of the creation of the program, the last leap year was 2024 and the nearest upcoming will be 2028.
+
 To determine a leap year, the year must be divisible by 4, but not by 100 unless it is also divisible by 400. That logic is applied in the isLeapYear() function
 seen in the script.js file.
 
