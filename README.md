@@ -1,7 +1,7 @@
-#LEAP YEAR CALCULATOR
+# LEAP YEAR CALCULATOR
 - A website for identifying if a year is/will be a leap year.
 
-##USER INTERFACE
+## USER INTERFACE
 <img width="1901" height="846" alt="image" src="https://github.com/user-attachments/assets/c196ea10-9aa5-469f-b961-da4ca142403c" />
 - The website showcases a simple UI with just a calculator containing numeric keypads to input a year
 - A message box below is added to display the message.
